@@ -1,6 +1,6 @@
 abbr -a -g zac 'zellij action'
 abbr -a -g zs 'zellij -s'
-abbr -a -g zcs 'zellij -l compact -s'
+abbr -a -g zsc 'zellij -l compact -s'
 abbr -a -g zl 'zellij list-sessions'
 abbr -a -g za 'zellij attach'
 abbr -a -g zk 'zellij kill-session'

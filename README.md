@@ -35,6 +35,8 @@ fisher install MrHuxu/zellij.fish
 | zda          | zellij delete-all-sessions | Delete all sessions                                                            |
 | ze           | zellij edit                | Edit a file in a new pane                                                      |
 | zef          | zellij edit --floating     | Edit a file in a floating pane                                                 |
+| zr           | zellij run                 | Run a command in a new pane                                                    |
+| zrf          | zellij run --floating      | Run a command in a floating pane                                               |
 
 ## License
 
